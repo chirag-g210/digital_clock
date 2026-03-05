@@ -21,8 +21,8 @@ This application displays the **current time and date** and updates automaticall
 Example Output:
 
 ```
-21:38:37 PM
-05/03/2026
+12:48:30 AM
+06/03/2026
 ```
 
 ---
