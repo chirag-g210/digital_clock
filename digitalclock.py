@@ -6,7 +6,7 @@ root.title("Digital clock")
 root.configure(bg="black")
 
 def time():
-    current_time = strftime('%H:%M:%S')
+    current_time = strftime('%I:%M:%S')
     current_ampm = strftime('%p')
     current_date = strftime('%d/%m/%Y')
 
