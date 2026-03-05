@@ -14,10 +14,10 @@ def time():
 
     time_label.after(1000, time)
 
-time_label = tk.Label(root, font=('calibri', 60, 'bold'), background='black', foreground='red')
+time_label = tk.Label(root, font=('calibri', 60, 'bold'), background='black', foreground='#00FFFF')
 time_label.pack(anchor='center')
 
-date_label = tk.Label(root, font=('calibri', 35, 'bold'), background='black', foreground='red')
+date_label = tk.Label(root, font=('calibri', 35, 'bold'), background='black', foreground='#00FFFF')
 date_label.pack(anchor='center')
 
 time()
