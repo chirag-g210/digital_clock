@@ -2,7 +2,7 @@ import tkinter as tk
 from time import strftime
 
 root = tk.Tk()
-root.title("Digital clock")
+root.title("⏰ Digital Clock")
 root.configure(bg="black")
 
 def time():
